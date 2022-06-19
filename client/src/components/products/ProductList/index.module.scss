@@ -1,0 +1,25 @@
+.list {
+   display: grid;
+   grid-template-columns: repeat(5, 1fr);
+   grid-template-rows: 1fr;
+   gap: 15px;
+   font-size: 15px;
+}
+
+.item-enter {
+   opacity: 0;
+}
+
+.item-enter-active {
+   opacity: 0;
+   transition: opacity 5000ms ease-in;
+}
+
+.item-exit {
+   opacity: 1;
+}
+
+.item-exit-active {
+   opacity: 0;
+   transition: opacity 500ms ease-in;
+}

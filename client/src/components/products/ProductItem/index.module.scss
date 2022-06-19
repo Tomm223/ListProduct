@@ -1,0 +1,22 @@
+.item {
+   cursor: pointer;
+   position: relative;
+   overflow: hidden;
+   border-radius: 10px;
+   border: 1px solid #eee;
+
+   &_info {
+      padding: 5px 10px;
+
+   }
+
+   &_name {
+      font-size: 22px;
+      font-weight: 700;
+   }
+}
+
+.img {
+   max-width: 100%;
+   max-height: 100%;
+}

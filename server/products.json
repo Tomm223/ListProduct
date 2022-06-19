@@ -1,0 +1,426 @@
+{
+   "products": [
+      {
+         "id": "27-1",
+         "sales": "true",
+         "news": "false",
+         "moda": "true",
+         "brand": "adidas",
+         "season": "winter",
+         "material": "Пух",
+         "id_product": 111,
+         "filter_name": "Куртка",
+         "product_name": "Пуховая зимняя куртка",
+         "img_product": "http://localhost:5000/img/jacket/jacket1-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket1-1.jpg"
+         ],
+         "sales-price": [
+            559,
+            400,
+            20
+         ],
+         "price": 559,
+         "color": "Хаки"
+      },
+      {
+         "id": "27-2",
+         "sales": "false",
+         "news": "false",
+         "moda": "true",
+         "brand": "Feshin",
+         "season": "winter",
+         "id_product": 111,
+         "filter_name": "Куртка",
+         "product_name": "Пуховая зимняя куртка хаки ",
+         "img_product": "http://localhost:5000/img/jacket/jacket2-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket2-1.jpg",
+            "http://localhost:5000/img/jacket/jacket2-2.jpg",
+            "http://localhost:5000/img/jacket/jacket2-3.jpg",
+            "http://localhost:5000/img/jacket/jacket2-4.jpg"
+         ],
+         "sales-price": "false",
+         "material": "Пух",
+         "color": "Хаки",
+         "price": 299
+      },
+      {
+         "id": "27-3",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "adidas",
+         "season": "winter",
+         "id_product": 111,
+         "filter_name": "Куртка",
+         "product_name": "Пуховая зимняя куртка",
+         "img-link": [
+            "jacket",
+            "3"
+         ],
+         "img_product": "http://localhost:5000/img/jacket/jacket3-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket3-1.jpg",
+            "http://localhost:5000/img/jacket/jacket3-2.jpg",
+            "http://localhost:5000/img/jacket/jacket3-3.jpg",
+            "http://localhost:5000/img/jacket/jacket3-4.jpg"
+         ],
+         "sales-price": "false",
+         "material": "Пух",
+         "color": "Черный",
+         "price": 559
+      },
+      {
+         "id": "27-4",
+         "sales": "true",
+         "news": "false",
+         "moda": "false",
+         "brand": "New Look",
+         "season": "spring",
+         "id_product": 111,
+         "filter_name": "Куртка",
+         "product_name": "Пуховая зимняя куртка",
+         "img_product": "http://localhost:5000/img/jacket/jacket4-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket4-1.jpg",
+            "http://localhost:5000/img/jacket/jacket4-2.jpg",
+            "http://localhost:5000/img/jacket/jacket4-3.jpg",
+            "http://localhost:5000/img/jacket/jacket4-4.jpg"
+         ],
+         "sales-price": [
+            250,
+            169,
+            30
+         ],
+         "material": "Кожа",
+         "color": "Черный",
+         "price": 169
+      },
+      {
+         "id": "27-5",
+         "sales": "false",
+         "news": "false",
+         "moda": "true",
+         "brand": "New Look",
+         "season": "winter",
+         "id_product": 111,
+         "material": "Пух",
+         "filter_name": "Куртка",
+         "product_name": "Пуховая зимняя куртка",
+         "img_product": "http://localhost:5000/img/jacket/jacket5-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket5-1.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Multy",
+         "price": 300
+      },
+      {
+         "id": "27-6",
+         "sales": "true",
+         "news": "false",
+         "moda": "true",
+         "brand": "The North Face",
+         "season": "spring",
+         "id_product": 111,
+         "filter_name": "Куртка",
+         "filter_category": "ветровка",
+         "product_name": "Осенняя куртка",
+         "img_product": "http://localhost:5000/img/jacket/jacket6-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/jacket/jacket6-1.jpg",
+            "http://localhost:5000/img/jacket/jacket6-2.jpg",
+            "http://localhost:5000/img/jacket/jacket6-3.jpg",
+            "http://localhost:5000/img/jacket/jacket6-4.jpg"
+         ],
+         "sales-price": [
+            300,
+            269,
+            10
+         ],
+         "color": "Синий",
+         "material": "Нейлон",
+         "price": 300
+      },
+      {
+         "id": "11-1",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "New Look",
+         "season": "all",
+         "material": "Denim",
+         "filter_name": "Штаны",
+         "product_name": "Синии Мужские штаны",
+         "img_product": "http://localhost:5000/img/bottom/bottom1-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/bottom/bottom1-1.jpg",
+            "http://localhost:5000/img/bottom/bottom1-2.jpg",
+            "http://localhost:5000/img/bottom/bottom1-3.jpg",
+            "http://localhost:5000/img/bottom/bottom1-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Синий",
+         "price": 90
+      },
+      {
+         "id": "11-2",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "adidas",
+         "season": "all",
+         "material": "Хлопок",
+         "id_product": 111,
+         "filter_name": "Штаны",
+         "product_name": "Зеленые Мужские спортивки",
+         "img_product": "http://localhost:5000/img/bottom/bottom2-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/bottom/bottom2-1.jpg",
+            "http://localhost:5000/img/bottom/bottom2-2.jpg",
+            "http://localhost:5000/img/bottom/bottom2-3.jpg",
+            "http://localhost:5000/img/bottom/bottom2-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Зеленый",
+         "price": 90
+      },
+      {
+         "id": "11-3",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "Fred Perry",
+         "season": "all",
+         "material": "Denim",
+         "id_product": 111,
+         "filter_name": "Штаны",
+         "product_name": "Cиние Джинсы",
+         "img_product": "http://localhost:5000/img/bottom/bottom3-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/bottom/bottom3-1.jpg",
+            "http://localhost:5000/img/bottom/bottom3-2.jpg",
+            "http://localhost:5000/img/bottom/bottom3-3.jpg",
+            "http://localhost:5000/img/bottom/bottom3-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Синий",
+         "price": 100
+      },
+      {
+         "id": "11-4",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "Fred Perry",
+         "season": "all",
+         "material": "Стрейч",
+         "id_product": 111,
+         "filter_name": "Штаны",
+         "product_name": "Серые Мужские брюки",
+         "img_product": "http://localhost:5000/img/bottom/bottom4-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/bottom/bottom4-1.jpg",
+            "http://localhost:5000/img/bottom/bottom4-2.jpg",
+            "http://localhost:5000/img/bottom/bottom4-3.jpg",
+            "http://localhost:5000/img/bottom/bottom4-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Серый",
+         "price": 199
+      },
+      {
+         "id": "02-1",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "Fred Perry",
+         "season": "all",
+         "material": "Хлопок",
+         "id_product": 111,
+         "filter_name": "Футболка",
+         "product_name": "Серая Мужская Футболка",
+         "img_product": "http://localhost:5000/img/t-shirt/t-shirt1-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/t-shirt/t-shirt1-1.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt1-2.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt1-3.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt1-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Серый",
+         "price": 59
+      },
+      {
+         "id": "02-2",
+         "sales": "true",
+         "news": "true",
+         "moda": "true",
+         "brand": "Tommy Hilfiger",
+         "season": "all",
+         "material": "Хлопок",
+         "id_product": 111,
+         "filter_name": "Футболка",
+         "product_name": "Белая Мужская Футболка",
+         "img_product": "http://localhost:5000/img/t-shirt/t-shirt2-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/t-shirt/t-shirt2-1.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt2-2.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt2-3.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt2-4.jpg"
+         ],
+         "sales-price": [
+            49,
+            39,
+            20
+         ],
+         "color": "Белый",
+         "price": 49
+      },
+      {
+         "id": "02-3",
+         "sales": "true",
+         "news": "true",
+         "moda": "true",
+         "brand": "Nike",
+         "season": "all",
+         "material": "Хлопок",
+         "id_product": 111,
+         "filter_name": "Футболка",
+         "product_name": "Синяя Мужская Футболка",
+         "img_product": "http://localhost:5000/img/t-shirt/t-shirt3-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/t-shirt/t-shirt3-1.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt3-2.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt3-3.jpg",
+            "http://localhost:5000/img/t-shirt/t-shirt3-4.jpg"
+         ],
+         "sales-price": [
+            49,
+            39,
+            20
+         ],
+         "color": "Синий",
+         "price": 49
+      },
+      {
+         "id": "33-1",
+         "sales": "true",
+         "news": "true",
+         "moda": "true",
+         "brand": "Nike",
+         "season": "summer",
+         "material": "Резина",
+         "id_product": 111,
+         "filter_name": "Обувь",
+         "product_name": "Черные Мужские Шлёпанцы",
+         "img_product": "http://localhost:5000/img/sniker/sniker1-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/sniker/sniker1-1.jpg",
+            "http://localhost:5000/img/sniker/sniker1-2.jpg",
+            "http://localhost:5000/img/sniker/sniker1-3.jpg",
+            "http://localhost:5000/img/sniker/sniker1-4.jpg"
+         ],
+         "sales-price": [
+            29,
+            19,
+            35
+         ],
+         "color": "Черный",
+         "price": 29
+      },
+      {
+         "id": "33-2",
+         "sales": "true",
+         "news": "false",
+         "moda": "false",
+         "brand": "Dr. Martens",
+         "season": "spring",
+         "material": "Кожа",
+         "id_product": 111,
+         "filter_name": "Обувь",
+         "product_name": "Черные Мужские Ботинки",
+         "img_product": "http://localhost:5000/img/sniker/sniker2-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/sniker/sniker2-1.jpg",
+            "http://localhost:5000/img/sniker/sniker2-2.jpg",
+            "http://localhost:5000/img/sniker/sniker2-3.jpg",
+            "http://localhost:5000/img/sniker/sniker2-4.jpg"
+         ],
+         "sales-price": [
+            129,
+            119,
+            10
+         ],
+         "color": "Черный",
+         "price": 129
+      },
+      {
+         "id": "33-3",
+         "sales": "false",
+         "news": "false",
+         "moda": "true",
+         "brand": "Ellesse",
+         "season": "all",
+         "material": "Кожа",
+         "id_product": 111,
+         "filter_name": "Обувь",
+         "product_name": "Темно-Зеленые Мужские Туфли",
+         "img_product": "http://localhost:5000/img/sniker/sniker3-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/sniker/sniker3-1.jpg",
+            "http://localhost:5000/img/sniker/sniker3-2.jpg",
+            "http://localhost:5000/img/sniker/sniker3-3.jpg",
+            "http://localhost:5000/img/sniker/sniker3-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Зеленый",
+         "price": 229
+      },
+      {
+         "id": "33-4",
+         "sales": "false",
+         "news": "true",
+         "moda": "false",
+         "brand": "adidas",
+         "season": "summer",
+         "material": "Сетка",
+         "id_product": 111,
+         "filter_name": "Обувь",
+         "product_name": "Белые Мужские Кроссовки",
+         "img_product": "http://localhost:5000/img/sniker/sniker4-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/sniker/sniker4-1.jpg",
+            "http://localhost:5000/img/sniker/sniker4-2.jpg",
+            "http://localhost:5000/img/sniker/sniker4-3.jpg",
+            "http://localhost:5000/img/sniker/sniker4-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Белый",
+         "price": 79
+      },
+      {
+         "id": "33-5",
+         "sales": "false",
+         "news": "true",
+         "moda": "true",
+         "brand": "adidas",
+         "season": "summer",
+         "material": "Замша",
+         "id_product": 111,
+         "filter_name": "Обувь",
+         "product_name": "Черные Мужские Кроссовки",
+         "img_product": "http://localhost:5000/img/sniker/sniker5-1.jpg",
+         "imgs": [
+            "http://localhost:5000/img/sniker/sniker5-1.jpg",
+            "http://localhost:5000/img/sniker/sniker5-2.jpg",
+            "http://localhost:5000/img/sniker/sniker5-3.jpg",
+            "http://localhost:5000/img/sniker/sniker5-4.jpg"
+         ],
+         "sales-price": "false",
+         "color": "Черный",
+         "price": 109
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+.check {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   margin-bottom: 15px;
+
+   &_block {
+      border-radius: 1em;
+      font-size: 35px;
+      overflow: hidden;
+   }
+
+   &_btn,
+   &_btn_active {
+      border: 0;
+      font-size: inherit;
+      font-weight: 800;
+      padding: .5em 1em;
+      height: 100%;
+      transition: .3s;
+   }
+
+   &_btn {
+      cursor: pointer;
+
+      &:hover {
+         background-color: #C2C8AE;
+      }
+   }
+
+   &_btn_active {
+      background-color: #50C878;
+
+      &:hover {
+         background-color: #0CC84B;
+      }
+   }
+}

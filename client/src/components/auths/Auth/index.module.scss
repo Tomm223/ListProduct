@@ -1,0 +1,22 @@
+.supp {
+
+   &_active,
+   &_none {
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      margin-top: 3em;
+      transition: 1s ease;
+   }
+
+   &_none {
+      opacity: 0;
+   }
+
+}
+
+.span {
+   cursor: pointer;
+   color: blue;
+   text-decoration: underline;
+}
